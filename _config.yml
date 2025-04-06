@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Yun Wang"
+title                    : "Yun Wang's Homepage"
 title_separator          : "-"
 name                     : &name "Yun Wang"
 description              : &description "Ph.D. Student"
@@ -23,13 +23,13 @@ repository               : "yunnw/yunnw.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Yun Wang"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Ph.D. Student"
+  location         : "Athens, GA"
+  employer         : "University of Georgia"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "Yun.Wang1@uga.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
