@@ -1,7 +1,8 @@
 ---
-layout: single
+layout: default
 title: ""
 permalink: /
+hide_title: true
 ---
 
 ## About Me
