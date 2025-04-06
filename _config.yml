@@ -352,9 +352,4 @@ compress_html:
   ignore:
     envs: development
 
-# Custom
-sass:
-  style: compressed
-include:
-  - assets/css
 
