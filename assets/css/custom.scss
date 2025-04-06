@@ -1,0 +1,10 @@
+/* 去掉主页顶部多余空白 */
+.home .page__content {
+    margin-top: 0 !important;
+    padding-top: 0 !important;
+  }
+
+/* 给右侧正文（.page__content）留出更多 margin-left */
+.page__content {
+    margin-left: 2rem; /* 你可以改成 1.5rem, 3rem, etc. */
+  }
