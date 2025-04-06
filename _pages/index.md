@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: single
 title: ""
 permalink: /
 hide_title: true
