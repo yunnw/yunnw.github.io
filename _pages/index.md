@@ -25,15 +25,15 @@ I am a first-year Ph.D. student in Computer Science at the [University of Georgi
 
 ---
 
-## Work Experience
+## Professional Experience
 
 [2021/12 - 2024/07] - Data Scientist at Beyondsoft
 
 ---
 
 ## Teaching
-[2025/01 - 2025/05] - Teaching Assistant for CSCI 2610: Discrete Mathematics for Computer Science (Spring 2025)  
-[2024/08 - 2024/12] - Teaching Assistant for CSCI 1302: Software Development (Fall 2024)
+[2025/01 - 2025/05] - Teaching Assistant, CSCI 2610 Discrete Mathematics for Computer Science (Spring 2025)  
+[2024/08 - 2024/12] - Teaching Assistant, CSCI 1302 Software Development (Fall 2024)
 
 ---
 
@@ -45,3 +45,4 @@ I am a first-year Ph.D. student in Computer Science at the [University of Georgi
 [2017/11] - First Prize, 6th Zhejiang University Students' Statistical Survey Scheme Design Contest
 
 ---
+
