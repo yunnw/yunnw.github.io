@@ -5,12 +5,13 @@ permalink: /
 ---
 
 <style>
-  .home .page__content {
-    margin-top: 0 !important;
-    padding-top: 0 !important;
-  }
   .page__content {
-    margin-left: 1.5rem;
+    margin-top: 0 !important;
+  }
+
+  .page {
+    display: flex;
+    gap: 3rem; 
   }
 </style>
 
