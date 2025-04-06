@@ -1,6 +1,6 @@
 ---
 layout: single
-title: ""
+title: "About Me"
 permalink: /
 hide_title: true
 ---
