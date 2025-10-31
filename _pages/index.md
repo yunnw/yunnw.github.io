@@ -8,7 +8,7 @@ hide_title: true
 I am a 2nd-year Ph.D. student in Computer Science at the [University of Georgia](https://www.uga.edu/), advised by [Prof. Ninghao Liu](https://ninghaohello.github.io/). Prior to joining UGA, I obtained my Master’s degree in Data Science and Analytics from the [University of Leeds](https://www.leeds.ac.uk/), where I was advised by [Prof. Dugald Macpherson](https://eps.leeds.ac.uk/maths/staff/4056/professor-dugald-macpherson), and my dissertation was supervised by [Prof. Douglas Parker](https://eps.leeds.ac.uk/maths/staff/9226/douglas-parker).
 
 <div style="background:#fffbe6;border:1px solid #ffe58f;padding:10px 12px;border-radius:8px;margin:12px 0;">
-  <strong>Open to a Summer 2026 research internship and to research collaborations aligned with my interests.</strong>
+  📬 <strong>Open to Summer 2026 research internship opportunities and to collaborations aligned with my research interests.</strong>
 </div>
 
 ---
@@ -53,6 +53,7 @@ Currently, I also work under the guidance of [Prof. Xiaoming Zhai](https://peopl
 [2017/11] - First Prize, 6th Zhejiang University Students' Statistical Survey Scheme Design Contest
 
 ---
+
 
 
 
