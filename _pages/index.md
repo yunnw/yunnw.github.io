@@ -21,12 +21,13 @@ My long-term goal is to build **reliable**, **data-efficient LLM systems** and *
 - **Reliable Reasoning & Self-Refinement (Core)**: Improve step-level correctness by verifying intermediate steps, detecting errors, and enabling autonomous correction with consistency-based training signals.
 - **Auditable Agentic Workflows (System)**: Design planning and tool-use workflows with robust evaluation harnesses and traceable execution, integrating the above capabilities into practical, controllable automation.
 
-Currently, I also work under the guidance of [Prof. Xiaoming Zhai](https://people.coe.uga.edu/xiaoming-zhai/), in collaboration with [ETS](https://www.ets.org/), to study and operationalize the methods outlined above in real-world contexts, including educational settings such as LLM-based agents and assessment technologies (automated scoring, feedback generation, learning analytics).
+Currently, I also work under the guidance of [Prof. Xiaoming Zhai](https://people.coe.uga.edu/xiaoming-zhai/), in collaboration with [ETS Research](https://www.ets.org/), to study and operationalize the methods outlined above in real-world contexts, including educational settings such as LLM-based agents and assessment technologies (automated scoring, feedback generation, learning analytics).
 
 ---
 
 ## News
 
+[2026/03] - Three papers accepted to AIED 2026.  
 [2025/10] - One paper accepted to AAAI 2026 (EAAI Symposium).  
 [2025/04] - One paper accepted to AIED 2025.  
 [2024/08] - Joined the Data Lab at UGA (DLGA) as a research assistant.
